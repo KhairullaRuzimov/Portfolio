@@ -1,3 +1,1 @@
-NOTE!
-TO SEE THE PORTFOLIO'S MEDIA (OR TO KNOW HOW IT WORKS IN OTHER DEVICES), YOU NEED FIRST CHOOSE THE WIDTH AND HEIGHT OF THE MEDIA THEN REFRESH THE SITE.
-OTHERWISE THE MEDIA OF THE PORTFOLIO WILL NOT WORK.
+Note: To view the media on the portfolio (or to understand how it behaves on different devices), you should first select the width and height of the media. After doing so, refresh the site. Otherwise, the media won’t function properly.
